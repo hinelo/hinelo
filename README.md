@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hinelo
+- 👋 Hi, I’m chinelo
 - 👀 I’m interested in peppa pig and free fire 
-- 🌱 I’m currently learning how to fly
-- 💞️ I’m looking to collaborate on urss
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: send a hot dog
 
 <!---
